@@ -21,8 +21,5 @@ Usage
 Clone the repository or download the notebook file to your local machine.
 Open the notebook in Jupyter Notebook or Jupyter Lab.
 Run the cells sequentially to observe the process of loading data, generating embeddings, and performing vector searches.
-Contributing
-Contributions to enhance or extend the notebook functionality are welcome. Please feel free to fork the repository and submit pull requests with your changes.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
